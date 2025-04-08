@@ -1,4 +1,4 @@
-import 'package:devchuli_school/widgets/day2.dart';
+import 'package:devchuli_school/widgets/assignment_2.dart';
 import 'package:flutter/material.dart';
 
 
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget{
         brightness: Brightness.dark,
         primaryColor: Colors.deepPurple),
         debugShowCheckedModeBanner: false,
-        home: Day2(),
+        home: Homework(),
       );
   }
 }

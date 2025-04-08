@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// ignore: camel_case_types
 class Container_Sized extends StatelessWidget{
   const Container_Sized({Key? key}):super(key:key); //this is constructor
   @override
